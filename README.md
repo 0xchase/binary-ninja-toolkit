@@ -5,7 +5,7 @@
  - Also custom CLI for binary ninja
 
 ## Symbolic Executor/Emulator
- - Interface with it similar to angr
+ - Interface with it similar to angr, with python bindings
  - Integrates with debugger by using it as the memory backend
  - 
 
