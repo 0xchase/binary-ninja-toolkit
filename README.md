@@ -11,4 +11,7 @@
 
 ## CLI
  - Integrate most radare2 commands
+ - Add seek hotkeys to graph (numbers)
+
+
  
