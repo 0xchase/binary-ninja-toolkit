@@ -6,10 +6,15 @@
 ### Malware Analysis Toolkit
  - Use binja tabbed dock plugin to organize all the different views
  - Automatically rename all functions
- - New panel that show function name, xrefs, syscalls, importance level, location, and description of purpose
  - Create an importance rating based on syscalls, size, complexity, location in function call graph, etc
  - Visually iterate through functions based on importance, if syscalls are known, etc. Print function summary. Quickly rename each function.
  - Report editing system. Can add commands output to report like in r2report. 
+
+### Tabbed dock plugin vews
+ - New panel that show function name, xrefs, syscalls, importance level, location, and description of purpose
+ - Report editing window
+ - Report preview window
+ - Summary of last run. Show all the funcitons called, with argument values, 
 
 ### CLI
  - Create a new command structure, inspired by or **identical to** the radare2 commands
