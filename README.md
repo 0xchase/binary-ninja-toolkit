@@ -1,7 +1,7 @@
 # binary-ninja-toolkit
 
 ### General
- - Something here
+ - Hypervisor integration
  
 ### Malware Analysis Toolkit
  - Use binja tabbed dock plugin to organize all the different views
