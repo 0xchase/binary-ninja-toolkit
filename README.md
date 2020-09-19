@@ -14,10 +14,11 @@
  - New panel that show function name, xrefs, syscalls, importance level, location, and description of purpose
  - Report editing window
  - Report preview window
- - Summary of last run. Show all the funcitons called, with argument values, can expand to see each argument
- - Process monitor
- - Zara and other signatures
+ - Trace: Summary of last run. Show all the funcitons called, with argument values, can expand to see each argument
+ - Processes: Process monitor
+ - Zara: zararules and other signatures
  - Searchable packet capture window
+ - Hooks window for hooking various syscalls, memory locations, etc
 
 ### CLI
  - Create a new command structure, inspired by or **identical to** the radare2 commands
