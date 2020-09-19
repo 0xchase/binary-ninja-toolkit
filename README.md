@@ -4,6 +4,7 @@
  - Something here
  
 ### Malware Analysis Toolkit
+ - Use binja tabbed dock plugin to organize all the different views
  - Automatically rename all functions
  - New panel that show function name, xrefs, syscalls, importance level, location, and description of purpose
  - Create an importance rating based on syscalls, size, complexity, location in function call graph, etc
