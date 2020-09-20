@@ -11,6 +11,7 @@
  - Report editing system. Can add commands output to report like in r2report. 
 
 ### Tabbed dock plugin vews
+ - Malware helper plugin, creates a large queue of tasks and automatically moves the reverser through them
  - New panel that show function name, xrefs, syscalls, importance level, location, and description of purpose
  - Report editing window
  - Report preview window
