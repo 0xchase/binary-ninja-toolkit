@@ -19,6 +19,7 @@
  - Zara: zararules and other signatures
  - Searchable packet capture window
  - Hooks window for hooking various syscalls, memory locations, etc
+ - Window that gets information about selected things like system calls
 
 ### CLI
  - Create a new command structure, inspired by or **identical to** the radare2 commands
